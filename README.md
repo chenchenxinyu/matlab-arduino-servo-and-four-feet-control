@@ -1,4 +1,4 @@
-# matlab-arduino-servo-and-four-feet-control
+# matlab-arduino-servo-and-four-feet-control-armrobot
 Now I am learning using matlab to test the arduino the four feet spider move, for learn how to control the gait.
 # date-2021年10月17日
 these days I have do the first demol to make sure somethings right, now take the summary here.
